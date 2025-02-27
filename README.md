@@ -11,3 +11,5 @@ This repository shows how to combine both the PUF files from 2007 to 2023 and me
 Of note, although you may process and clean the data using a Mac (OS), the TXT files will be sent to you from the ACS in an executable format (EXE), which requires a Windows OS to execute.
 
 Following combining, processing, and cleaning the data, we will also save the resulting tabulated data in the form of a **Parquet** file as Parquet saves data more efficiently and preserves data types, which will be important as we will be specifying these when cleaning and processing the data.
+
+As we approach each TXT file for processing and cleaning, it is important to note the variability in column headings and variable reporting across years. These make consolidating the data more complicated, but it can be approached methodically. I prefer to approach things piecemeal to track bugs/errors intermittently as they appear.

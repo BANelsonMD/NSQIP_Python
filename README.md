@@ -1,5 +1,5 @@
 # NSQIP_Python
-**A template to use Python to combine and clean NSQIP data.**
+**A template to use Python to combine and clean NSQIP data across years.**
 
 From the American College of Surgeons (ACS) National Surgical Quality Improvement Program (NSQIP®) website (*https://www.facs.org/quality-programs/data-and-registries/acs-nsqip/participant-use-data-file/*):
 
